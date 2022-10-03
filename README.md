@@ -1,11 +1,11 @@
+##Pet Adoption Project
+Website url: https://objective-jennings-2558ce.netlify.app/
+
 #Team Alpha
 Jeff Zhao
 Natthaphong Kongkaew
 Dina Salverian
 Ryan Jensen
-
-##Pet Adoption Project
-Website url: https://objective-jennings-2558ce.netlify.app/
 
 ##Introduction
 Alpha Team created a pet adoption web application (built using a Django backend and React frontend) that allows users to search for pets based on their type, breed, disposition, etc. Shelters are able to post profiles of their pets to the application which are then searchable by the users. Information such as age, weight, disposition, gender, a bio, and availability status are included in the pet’s profiles. The application aims to match users to the ideal pets available from the shelters.
